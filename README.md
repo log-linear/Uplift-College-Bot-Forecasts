@@ -5,6 +5,8 @@ probability that an Uplift student would be accepted into a given college.
 The code for the forecasting process used is documented within the included 
 __forecasts.ipynb__ file.
 
+A deidentified version of the dashboard can be found [here](https://public.tableau.com/profile/victor.faner8540\#!/vizhome/CollegeBotdeidentified/Explorer).
+
 # Notes
 - Forecasts were generated using a Random Forests model
 - Target: Final application status - accepted vs. rejected
